@@ -1,4 +1,4 @@
-/*Powered by N1ghtm4R3*/
+/*Powered by lamtao*/
 
 body{
 	margin:0;
@@ -75,7 +75,7 @@ select.input_text {
 	cursor:pointer;
 }
 .clean{
-	background: #4d4f53 url('../img/close.png') 0 0 no-repeat;
+	background: #4d4f53 url('./img/close.png') 0 0 no-repeat;
 	border-radius: 50%;
 	cursor: pointer;
 	height: 24px;
@@ -87,12 +87,12 @@ select.input_text {
 	-webkit-transition: all .5s;
 }
 .clean:hover {
-	background: #6f808f url('../img/close.png') 0 0 no-repeat;
+	background: #6f808f url('./img/close.png') 0 0 no-repeat;
 	-webkit-transform: rotate(360deg);
 	transform: rotate(360deg);
 }
 .cleanit{
-	background: #4d4f53 url('../img/close.png') 0 0 no-repeat;
+	background: #4d4f53 url('./img/close.png') 0 0 no-repeat;
 	border-radius: 50%;
 	cursor: pointer;
 	height: 24px;
@@ -103,7 +103,7 @@ select.input_text {
 	-webkit-transition: all .5s;
 }
 .cleanit:hover {
-	background: rgba(0, 0, 0, 0.87) url('../img/close.png') 0 0 no-repeat;
+	background: rgba(0, 0, 0, 0.87) url('./img/close.png') 0 0 no-repeat;
 	-webkit-transform: rotate(360deg);
 	transform: rotate(360deg);
 }
